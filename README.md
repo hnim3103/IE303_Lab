@@ -31,3 +31,11 @@ BTTH-IE303/
 - Bài 3: Convex Hull
 - Bài 4: Max Subarray
 ---
+
+## Lab 02 - Lập trình Game Flappy Bird cơ bản
+
+- Bài 1: Xây dựng cửa sổ chính và thiết lập hình nền
+- Bài 2: Thêm đối tượng Bird và hiệu ứng rơi/nhảy (phím Space hoặc Enter)
+- Bài 3: Thiết lập Game Loop, thêm đối tượng Pipe, và di chuyển ống nước
+- Bài 4: Cơ chế tính điểm, phát hiện Game Over và tính năng Restart
+---
